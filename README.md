@@ -11,7 +11,8 @@ Building **AI Agents, RAG systems, and real-world AI applications**.
 
 </div>
 
-<table width="100%">
+<div align="center">
+<table align="center" width="84%">
 <tr>
 <td align="center" valign="middle" width="25%" nowrap>
 <strong>💼 Experience / Offers</strong><br/>
@@ -31,6 +32,7 @@ Building **AI Agents, RAG systems, and real-world AI applications**.
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 <sub>Keep learning. Keep building. Keep contributing.</sub>
