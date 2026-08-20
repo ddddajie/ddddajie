@@ -1,14 +1,21 @@
-# 🏆 Awards
+# 🏆 竞赛 / 荣誉
 
-Selected competition and technical awards.
+这里记录我参与过的竞赛、技术类荣誉与阶段性成果。
 
-- 🥉 **China International College Students' Innovation Competition** — National Bronze Award
-- 🥉 **BRICS Skills Competition — Humanoid Robot** — National Bronze Award
-- 🏅 **Hubei Provincial Vocational College Skills Competition** — New Generation Information Technology Track
-- 🏅 **Hubei Provincial Skills Competition — Web Technology** — 8th Place
-- 🥉 **New Engineering Java Competition** — Preliminary Round Third Prize
-- 🏅 **BRICS Skills Competition** — Excellence Award
+## 🌟 国家级
+
+- 🥉 **中国国际大学生创新大赛** — 国家级铜奖
+- 🥉 **金砖国家职业技能大赛 · 人形机器人赛项** — 国家级铜奖
+- 🏅 **金砖国家职业技能大赛** — 优胜奖
+
+## 🏅 省级 / 其他
+
+- **湖北省职业院校技能大赛 · 新一代信息技术赛道**
+- **湖北省第二届职业技能大赛 · 网站技术赛项** — 第 8 名
+- **新工科 Java 竞赛** — 初赛三等奖
 
 ---
 
-[← Back to Profile](./README.md)
+> 后续会继续补充对应年份、证书与可公开的证明材料。
+
+[← 返回个人主页](./README.md)
