@@ -34,7 +34,7 @@
 
 ---
 
-## 🧰 AiPDF / AiIQ｜海外 AI 工具站
+## 🧰海外 AI 工具站
 
 独立负责两个海外工具站的技术选型、UI、前后端开发、测试部署与多语言适配。
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🤖 Medical Tourism｜海外来华就医 AI Agent
+## 🤖海外来华就医 AI Agent
 
 面向来华就医场景的 AI Agent 与内部 RAG 系统。
 
@@ -58,19 +58,19 @@
 
 ---
 
-## 📍 Find GPS Locations｜手机号授权定位平台
+## 📍手机号授权定位平台
 
 面向移动端的授权定位产品，覆盖支付、短信授权、浏览器定位与结果回传。
 
 `Node.js` · `Cloudflare Workers` · `JavaScript` · `Webhook` · `RESTful API`
 
 - 负责前后端全栈开发与完整业务链路实现。
-- 对接支付中台与 BuziPay，并设计支付 Webhook 状态流转。
+- 对接支付中台并设计支付 Webhook 状态流转。
 - 完成 Cloudflare Workers 部署与线上联调。
 
 ---
 
-## 🏁 Checkwin｜AI 激励式习惯养成平台
+## 🏁AI 激励式习惯养成平台
 
 结合挑战任务、每日打卡与 AI 辅助审核的习惯养成产品。
 
