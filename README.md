@@ -11,25 +11,25 @@ Building **AI Agents, RAG systems, and real-world AI applications**.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="middle" width="50%">
 <strong>💼 Experience / Offers</strong><br/>
-<a href="./offer.md">📄 View Experience →</a>
+<a href="./offer.md">📄 View&nbsp;Experience&nbsp;→</a>
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="middle" width="50%">
 <strong>🌱 Open Source</strong><br/>
-<a href="./OpenSource.md">🌱 View Open Source →</a>
+<a href="./OpenSource.md">🌱 View&nbsp;Open&nbsp;Source&nbsp;→</a>
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="middle" width="50%">
 <strong>🚀 Projects</strong><br/>
-<a href="./Projects.md">🚀 View Projects →</a>
+<a href="./Projects.md">🚀 View&nbsp;Projects&nbsp;→</a>
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="middle" width="50%">
 <strong>🏆 Awards</strong><br/>
-<a href="./Awards.md">🏆 View Awards →</a>
+<a href="./Awards.md">🏆 View&nbsp;Awards&nbsp;→</a>
 </td>
 </tr>
 </table>
