@@ -1,53 +1,56 @@
-# 🚀 Projects
+# 🚀 项目经历
 
-## 🌏 WanLv / 万旅
+这里记录个人项目与真实业务场景中的开发实践，重点关注 AI Agent、RAG、全栈应用与工程落地。
 
-An AI-powered smart tourism platform that combines AI assistance, retrieval-augmented generation, route planning, recommendation and digital-human interaction.
+## 🌏 万旅 WanLv
 
-### Architecture
+面向智慧旅游场景的综合项目，融合 **AI Agent、RAG、路线规划、个性化推荐与数字人交互**。
 
-- **AI Agent:** Python, FastAPI, LangChain, RAG
-- **Backend:** Node.js, MySQL
-- **Frontend:** Vue, Naive UI, Tailwind CSS
-- **Route Planning:** road-network shortest path, Dijkstra, Haversine
-- **Digital Human:** LiveTalking-based interaction module
+### 技术与模块
 
-### Repositories
+- **AI Agent：** Python、FastAPI、LangChain、RAG
+- **后端：** Node.js、MySQL
+- **前端：** Vue、Naive UI、Tailwind CSS
+- **路线规划：** 道路网络最短路径、Dijkstra、Haversine
+- **数字人：** 基于 LiveTalking 的交互模块
+- **客户端：** Web + Android
 
-- [wanlv-agent](https://github.com/ddddajie/wanlv-agent)
-- [wanlv-web](https://github.com/ddddajie/wanlv-web)
-- [wanlv-back](https://github.com/ddddajie/wanlv-back)
-- [wanlv-android](https://github.com/ddddajie/wanlv-android)
-- [Wanlv-livetalking](https://github.com/ddddajie/Wanlv-livetalking)
+### 代码仓库
+
+- 🤖 [wanlv-agent](https://github.com/ddddajie/wanlv-agent) — Agent / RAG 服务
+- 🌐 [wanlv-web](https://github.com/ddddajie/wanlv-web) — Web 前端
+- ⚙️ [wanlv-back](https://github.com/ddddajie/wanlv-back) — 后端服务
+- 📱 [wanlv-android](https://github.com/ddddajie/wanlv-android) — Android 客户端
+- 🧑‍💻 [Wanlv-livetalking](https://github.com/ddddajie/Wanlv-livetalking) — 数字人模块
 
 ## 🤖 Medical Tourism AI Agent
 
-AI Agent and internal RAG system for medical-tourism scenarios.
+面向来华就医场景的 AI Agent 与内部 RAG 系统。
 
-- Dynamic prompt and context composition
-- Internal-document retrieval and knowledge-base updates
-- Python / FastAPI Agent service
-- LangChain, MySQL and vector retrieval
-- Node.js + Python service architecture
+- 动态 Prompt 与上下文组合
+- 内部知识库检索与文档更新
+- Python / FastAPI Agent 服务
+- LangChain、MySQL 与向量检索
+- Node.js + Python 服务架构
 
 ## 📍 Find GPS Locations
 
-Mobile-first H5 location-sharing product with payment and authorization flow.
+面向移动端的 H5 定位授权与结果查询产品。
 
-- Node.js backend
-- Cloudflare deployment
-- Payment order and webhook integration
-- Browser-based geolocation authorization and result delivery
+- Node.js 后端
+- Cloudflare 部署
+- 支付订单与 Webhook 回调
+- 浏览器定位授权与经纬度结果回传
 
 ## 🏁 Project Checkwin
 
-Habit-challenge product combining challenge deposits, daily check-ins and AI-assisted review.
+结合挑战金、自律打卡与 AI 辅助审核的习惯挑战产品。
 
-- Node.js backend development
-- Python / FastAPI AI service
-- AI-assisted image review
-- Challenge templates, workflow state and coaching features
+- Node.js 后端功能开发
+- Python / FastAPI AI 服务
+- AI 图片审核
+- 挑战模板、流程状态与 AI 教练相关功能
 
 ---
 
-[← Back to Profile](./README.md)
+[← 返回个人主页](./README.md)
