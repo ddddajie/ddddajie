@@ -13,21 +13,19 @@ Building **AI Agents, RAG systems, and real-world AI applications**.
 
 <table width="100%">
 <tr>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" width="25%" nowrap>
 <strong>💼 Experience / Offers</strong><br/>
 <a href="./offer.md">📄 View&nbsp;Experience&nbsp;→</a>
 </td>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" width="25%" nowrap>
 <strong>🌱 Open Source</strong><br/>
 <a href="./OpenSource.md">🌱 View&nbsp;Open&nbsp;Source&nbsp;→</a>
 </td>
-</tr>
-<tr>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" width="25%" nowrap>
 <strong>🚀 Projects</strong><br/>
 <a href="./Projects.md">🚀 View&nbsp;Projects&nbsp;→</a>
 </td>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" width="25%" nowrap>
 <strong>🏆 Awards</strong><br/>
 <a href="./Awards.md">🏆 View&nbsp;Awards&nbsp;→</a>
 </td>
