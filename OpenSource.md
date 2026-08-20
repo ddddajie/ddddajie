@@ -1,7 +1,5 @@
 # 🌱 开源经历
 
-这里记录我参与开源项目时的 Issue、Pull Request 与协作贡献。
-
 ## Dify
 
 参与 [langgenius/dify](https://github.com/langgenius/dify) 的后端开源贡献，主要关注依赖注入、数据库 Session 边界与业务逻辑问题分析。
