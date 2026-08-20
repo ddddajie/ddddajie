@@ -28,11 +28,11 @@
 2. 🥇 **长江职业学院一等奖学金**
 
 ---
-</div>
-<div align="center">
- <img>./assets/获奖证书.png</img>
-</div>
-</div>
 
+## 📜 获奖证书
+
+<div align="center">
+  <img src="./assets/获奖证书.png" alt="获奖证书" width="90%" />
+</div>
 
 [← 返回个人主页](./README.md)
