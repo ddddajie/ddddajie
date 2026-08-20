@@ -34,51 +34,33 @@
 
 ---
 
-## 🧰 AiPDF / AiIQ｜海外 AI 工具站
+## 🧩 实习业务项目｜脱敏版
 
-独立负责两个海外工具站的技术选型、UI、前后端开发、测试部署与多语言适配。
+以下内容仅保留可公开的项目类型、职责与技术方向，具体业务流程、内部架构、合作方及数据细节不公开。
 
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `Cloudflare Workers` · `D1` · `PDF.js` · `pdf-lib` · `LLM`
+### 海外 AI 工具与测评产品
 
-- **AiPDF**：实现 PDF 合并、拆分及常用文档转换能力。
-- **AiIQ**：实现 IQ、MBTI、Big Five、Career、Love、Mental Age 六类测试与统一评分。
-- 接入大模型生成个性化测评报告，并完成登录、后台、权限、订单与 Webhook 基础架构。
+`JavaScript` · `Node.js` · `Cloudflare Workers` · `LLM`
 
----
+参与工具类与测评类 Web 产品开发，负责部分前后端功能、AI 能力接入与部署上线。
 
-## 🤖 Medical Tourism｜海外来华就医 AI Agent
+### AI Agent / RAG 业务应用
 
-面向来华就医场景的 AI Agent 与内部 RAG 系统。
+`Python` · `FastAPI` · `LangChain` · `RAG`
 
-`Python` · `FastAPI` · `LangChain` · `MySQL` · `RAG`
+参与垂直业务场景下的 Agent 与知识库应用开发，负责部分上下文、检索与工具调用相关功能。
 
-- 根据用户意图动态加载 Prompt、业务知识与工具规则。
-- 使用 MySQL 管理多轮上下文，并进行阶段性压缩。
-- 参与 RAG 文档清洗、向量化、召回及知识库更新一致性设计。
+### 移动端 Web 业务
 
----
+`Node.js` · `JavaScript` · `Cloudflare Workers`
 
-## 📍 Find GPS Locations｜手机号授权定位平台
+参与移动端 Web 产品的业务流程、后端接口、部署与线上联调。
 
-面向移动端的授权定位产品，覆盖支付、短信授权、浏览器定位与结果回传。
+### AI 审核与智能交互
 
-`Node.js` · `Cloudflare Workers` · `JavaScript` · `Webhook` · `RESTful API`
+`Python` · `FastAPI` · `LLM`
 
-- 负责前后端全栈开发与完整业务链路实现。
-- 对接支付中台与 BuziPay，并设计支付 Webhook 状态流转。
-- 完成 Cloudflare Workers 部署与线上联调。
-
----
-
-## 🏁 Checkwin｜AI 激励式习惯养成平台
-
-结合挑战任务、每日打卡与 AI 辅助审核的习惯养成产品。
-
-`Node.js` · `Python` · `FastAPI` · `MySQL` · `LLM` · `Prompt Engineering`
-
-- 参与挑战模板、打卡与状态流转等后端开发。
-- 搭建 AI 图片审核服务与人工复核流程。
-- 参与 AI 教练与动态用户画像设计。
+参与 AI 审核、智能交互与个性化生成等功能的工程化实现。
 
 ---
 
