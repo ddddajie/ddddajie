@@ -1,71 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=0078D7&center=true&vCenter=true&pause=100000&lines=Hi,+I'm+Haojie+Hu.;AI+Agent+%26+Full-Stack+Developer" alt="Hi, I'm Haojie Hu"/>
 
-  <p><strong>Building AI Agents, RAG systems and real-world full-stack applications.</strong></p>
+## 嗨，我是酒诗 👋
 
-  <p>
-    <code>🤖 AI Agent · RAG · Full-Stack</code>
-    <code>🎓 Computer Science @ Hubei Normal University</code>
-  </p>
+**AI Agent / 全栈开发者**
+
+专注于 **AI Agent、RAG、Agentic Engineering** 与真实业务场景中的 AI 应用落地。
+
+<code>🤖 AI Agent</code> <code>🧠 RAG</code> <code>⚙️ Agentic Engineering</code> <code>💻 Full-Stack</code>
+
+<code>🎓 湖北师范大学 · 计算机科学与技术</code>
+
 </div>
+
+<br/>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### 💼 Experience
+### 💼 实习 / Offer
 
-**ZhenAiEr Medical Management** — `AI / Full-Stack Intern`  
-`2026.07 — 2026.08`
+记录实习、工作实践与阶段性职业经历。
 
-- Built and shipped overseas-facing H5 / web products.
-- Worked across `Node.js`, `Python`, `FastAPI`, `Cloudflare` and AI application development.
-- Participated in AI Agent + internal RAG system development for medical-tourism scenarios.
+> 📄 [查看详细经历 →](./offer.md)
 
 </td>
 <td valign="top" width="50%">
 
-#### 🌱 Open Source
+### 🌱 开源经历
 
-**[langgenius/dify](https://github.com/langgenius/dify)** — Contributor
+记录 Dify 等开源项目中的 Issue、PR 与代码贡献。
 
-- ✅ [PR #40787](https://github.com/langgenius/dify/pull/40787) — migrated dataset document request validation to dependency injection.
-- 🚧 [PR #40873](https://github.com/langgenius/dify/pull/40873) — refactored workflow comment account accessors to use caller-provided SQLAlchemy sessions.
+> 🌱 [查看开源经历 →](./OpenSource.md)
 
-> [View Open Source Experience →](./OpenSource.md)
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🚀 项目经历
+
+记录个人项目与真实业务项目，包括万旅、AI Agent 与全栈应用。
+
+> 🚀 [查看项目经历 →](./Projects.md)
+
+</td>
+<td valign="top" width="50%">
+
+### 🏆 竞赛 / 荣誉
+
+记录国家级、省级竞赛与技术类获奖经历。
+
+> 🏆 [查看奖项 →](./Awards.md)
 
 </td>
 </tr>
 </table>
 
-## 🚀 Featured Projects
+## 🔭 当前关注
 
-### 🌏 WanLv / 万旅
-
-AI-powered smart tourism platform combining **AI Agent, RAG, route planning, recommendation and digital-human interaction**.
-
-- 🤖 [wanlv-agent](https://github.com/ddddajie/wanlv-agent) — Python / FastAPI / LangChain / RAG
-- 🌐 [wanlv-web](https://github.com/ddddajie/wanlv-web) — Web frontend
-- ⚙️ [wanlv-back](https://github.com/ddddajie/wanlv-back) — Backend services
-- 📱 [wanlv-android](https://github.com/ddddajie/wanlv-android) — Android client
-- 🧑‍💻 [Wanlv-livetalking](https://github.com/ddddajie/Wanlv-livetalking) — Digital-human module
-
-> [View Projects →](./Projects.md)
-
-## 🧠 What I'm Focused On
-
-`AI Agent` · `RAG` · `Agentic Engineering` · `Python` · `FastAPI` · `Node.js` · `Full-Stack Development`
-
-## 🏆 Selected Awards
-
-- 🥉 China International College Students' Innovation Competition — **National Bronze Award**
-- 🥉 BRICS Skills Competition, Humanoid Robot — **National Bronze Award**
-- 🏅 Hubei Provincial Vocational College Skills Competition — New Generation Information Technology Track
-
-> [View Awards →](./Awards.md)
+`AI Agent` · `RAG` · `Agentic Engineering` · `Python` · `FastAPI` · `Node.js` · `全栈开发`
 
 ---
 
 <div align="center">
-  <sub>Keep building. Keep contributing.</sub>
+  <sub>持续学习，持续构建，持续参与开源。</sub>
 </div>
