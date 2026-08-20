@@ -1,14 +1,14 @@
 <div align="center">
 
-## 嗨，我是酒诗 👋
+## Hi, I'm 酒诗 👋
 
-**AI Agent / 全栈开发者**
+**AI Agent / Full-Stack Developer**
 
-专注于 **AI Agent、RAG、Agentic Engineering** 与真实业务场景中的 AI 应用落地。
+Focused on building **AI Agents, RAG systems, Agentic Engineering workflows, and real-world AI applications**.
 
 <code>🤖 AI Agent</code> <code>🧠 RAG</code> <code>⚙️ Agentic Engineering</code> <code>💻 Full-Stack</code>
 
-<code>🎓 湖北师范大学 · 计算机科学与技术</code>
+<code>🎓 Computer Science @ Hubei Normal University</code>
 
 </div>
 
@@ -18,51 +18,51 @@
 <tr>
 <td valign="top" width="50%">
 
-### 💼 实习 / Offer
+### 💼 Experience / Offers
 
-记录实习、工作实践与阶段性职业经历。
+Internships, engineering practice, and career milestones.
 
-> 📄 [查看详细经历 →](./offer.md)
+> 📄 [View Experience →](./offer.md)
 
 </td>
 <td valign="top" width="50%">
 
-### 🌱 开源经历
+### 🌱 Open Source
 
-记录 Dify 等开源项目中的 Issue、PR 与代码贡献。
+Issues, pull requests, and code contributions to projects such as Dify.
 
-> 🌱 [查看开源经历 →](./OpenSource.md)
+> 🌱 [View Open Source →](./OpenSource.md)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🚀 项目经历
+### 🚀 Projects
 
-记录个人项目与真实业务项目，包括万旅、AI Agent 与全栈应用。
+Personal and production projects across AI Agents, full-stack development, and WanLv.
 
-> 🚀 [查看项目经历 →](./Projects.md)
+> 🚀 [View Projects →](./Projects.md)
 
 </td>
 <td valign="top" width="50%">
 
-### 🏆 竞赛 / 荣誉
+### 🏆 Awards
 
-记录国家级、省级竞赛与技术类获奖经历。
+National and provincial competitions, awards, and technical achievements.
 
-> 🏆 [查看奖项 →](./Awards.md)
+> 🏆 [View Awards →](./Awards.md)
 
 </td>
 </tr>
 </table>
 
-## 🔭 当前关注
+## 🔭 Current Focus
 
-`AI Agent` · `RAG` · `Agentic Engineering` · `Python` · `FastAPI` · `Node.js` · `全栈开发`
+`AI Agent` · `RAG` · `Agentic Engineering` · `Python` · `FastAPI` · `Node.js` · `Full-Stack Development`
 
 ---
 
 <div align="center">
-  <sub>持续学习，持续构建，持续参与开源。</sub>
+  <sub>Keep learning. Keep building. Keep contributing.</sub>
 </div>
