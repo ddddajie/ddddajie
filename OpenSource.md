@@ -8,6 +8,10 @@
 
 针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900)，收窄 cleanup 与 task callback 路径中过度捕获的 `BaseException`，避免 `KeyboardInterrupt` / `SystemExit` 被静默吞掉。
 
+#### [Issue #6896 — checkpoint-sqlite: make TTL pruning deterministic at boundary](https://github.com/langchain-ai/langgraph/issues/6896)
+
+修复 SQLite TTL 清理在亚秒边界上的时间精度不一致问题，并补充同步/异步回归测试。
+
 ## Dify
 
 ### ✅ 已合并
