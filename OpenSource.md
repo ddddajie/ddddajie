@@ -2,15 +2,21 @@
 
 ## LangGraph
 
+### 🚧 进行中
+
 #### [PR #8663 — Replace unnecessary BaseException catches with Exception](https://github.com/langchain-ai/langgraph/pull/8663)
 
 针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900)，收窄 cleanup 与 task callback 路径中过度捕获的 `BaseException`，避免 `KeyboardInterrupt` / `SystemExit` 被静默吞掉。
 
 ## Dify
 
+### ✅ 已合并
+
 #### [PR #40787 — dep inject for dataset document actions](https://github.com/langgenius/dify/pull/40787)
 
 将 dataset document 接口的请求模型校验迁移到 Dify 现有依赖注入方式，并补充对应测试。
+
+### 🚧 进行中
 
 #### [PR #41117 — pass session to workflow comment account accessors](https://github.com/langgenius/dify/pull/41117)
 
