@@ -1,6 +1,6 @@
 # 🌱 开源经历
 
-## Dify
+# [Dify](https://github.com/langgenius/dify)
 
 ### ✅ 已合并
 
@@ -28,7 +28,7 @@
 
 在 Review 中定位 `RAG_PIPELINE` 场景下 `after_commit` listener 注册顺序问题，并提出被采纳的修复与回归测试方案。
 
-## Vite
+# [Vite](https://github.com/vitejs/vite)
 
 ### 🚧 进行中
 
@@ -36,7 +36,7 @@
 
 针对 [Issue #9828](https://github.com/vitejs/vite/issues/9828)，修复开发模式下 HTML 直接引用 `node_modules` 模块未注入 `browserHash`、导致同一模块被重复实例化的问题。
 
-## LangGraph
+# [LangGraph](https://github.com/langchain-ai/langgraph)
 
 ### 🚧 进行中
 
