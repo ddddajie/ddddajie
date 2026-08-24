@@ -1,5 +1,19 @@
 # 🌱 开源经历
 
+## LangGraph
+
+参与 [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) 的开源贡献，主要关注运行时异常处理、流式执行与回归测试。
+
+### 🚧 进行中
+
+#### [PR #8663 — Replace unnecessary BaseException catches with Exception](https://github.com/langchain-ai/langgraph/pull/8663)
+
+针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900)，修复 cleanup / task callback 路径中过度捕获 `BaseException` 的问题，将 3 处静默吞掉系统级异常的处理收窄为 `Exception`，使 `KeyboardInterrupt` / `SystemExit` 能够正常传播。
+
+修改范围保持在 4 个文件，并补充 sync / async stream mux 与 `BackgroundExecutor` 的 regression tests；相关目标测试、完整 `test_pregel.py`、Ruff 与 `git diff --check` 均已通过。
+
+**状态：代码完成 · PR 因 LangGraph 外部贡献者需先被分配 Issue 而被 Bot 自动关闭 · 等待 Maintainer assignment 后自动重新开放**
+
 ## Dify
 
 参与 [langgenius/dify](https://github.com/langgenius/dify) 的后端开源贡献，主要关注依赖注入、数据库 Session 边界与业务逻辑问题分析。
