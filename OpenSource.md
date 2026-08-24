@@ -20,11 +20,15 @@
 
 将 dataset document 接口的请求模型校验迁移到 Dify 现有依赖注入方式，并补充对应测试。
 
-### 🚧 进行中
-
 #### [PR #41117 — pass session to workflow comment account accessors](https://github.com/langgenius/dify/pull/41117)
 
-针对 [Issue #40372](https://github.com/langgenius/dify/issues/40372)，将 workflow comment 数据库访问改为显式传入 SQLAlchemy `Session`，明确数据库依赖与事务边界。
+将 workflow comment 的账户访问改为显式传入 SQLAlchemy `Session`，移除隐藏的数据库会话依赖。
+
+### 🚧 进行中
+
+#### [PR #41135 — add vision-aware file upload settings](https://github.com/langgenius/dify/pull/41135)
+
+为 Agent V2 Chat Features 增加 Vision 能力感知，在图片上传场景提示非视觉模型并提供 High / Low 分辨率设置。
 
 #### [Issue #40575 — Add Multi-select / Checkbox Group Input to Start Node User Input](https://github.com/langgenius/dify/issues/40575)
 
