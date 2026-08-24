@@ -22,6 +22,14 @@
 
 **状态：Open · 无合并冲突 · Review 中**
 
+#### [Issue #40575 — Add Multi-select / Checkbox Group Input to Start Node User Input](https://github.com/langgenius/dify/issues/40575)
+
+为 Dify Start Node 的 User Input 设计并完成原生 `multi-select` 支持，使预定义选项可以作为原生 `string[] / array[string]` 传递给下游节点，并覆盖 required 空数组校验、选项合法性、重复值校验与顺序保持等行为。
+
+前置依赖已在 [Graphon PR #259 — feat: add multi-select input variable type](https://github.com/langgenius/graphon/pull/259) 中实现，新增 `VariableEntityType.MULTI_SELECT` 并复用现有 `ARRAY_STRING` runtime 类型。Dify 侧已完成 backend validation / typing、Start Node 配置、Chat / Embedded Chat / Run Once 等 runtime 支持及对应回归测试，目前代码已推送至个人 fork。
+
+**状态：Dify 实现完成 · Graphon PR #259 Open · 等待前置依赖合并 / 发布后提交 Dify upstream PR**
+
 ### 🤝 协作贡献
 
 #### [PR #40965 — fix dataset re-index after embedding model switch](https://github.com/langgenius/dify/pull/40965)
