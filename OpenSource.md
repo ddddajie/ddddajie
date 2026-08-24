@@ -14,11 +14,13 @@
 
 ### 🚧 进行中
 
-#### [PR #40873 — pass session to workflow comment account accessors](https://github.com/langgenius/dify/pull/40873)
+#### [PR #41117 — pass session to workflow comment account accessors](https://github.com/langgenius/dify/pull/41117)
 
-将 workflow comment 相关数据库访问从隐式 `db.session` 调整为显式传入 SQLAlchemy `Session`，使依赖边界更清晰。
+针对 [Issue #40372](https://github.com/langgenius/dify/issues/40372)，将 workflow comment 相关数据库访问从隐式 `db.session` 调整为显式传入 SQLAlchemy `Session`，并同步适配 controller 与回归测试，使数据库依赖和事务边界更清晰。
 
-**状态：Open**
+该 PR 为 #40873 的更新版本：在原 PR 因与最新 `main` 冲突被关闭后，重新 rebase 到最新主分支、解决测试夹具冲突，并将最终修改范围收敛为 4 个核心文件。
+
+**状态：Open · 无合并冲突 · Review 中**
 
 ### 🤝 协作贡献
 
