@@ -18,9 +18,9 @@
 
 为 Agent V2 Chat Features 增加 Vision 能力感知，在图片上传场景提示非视觉模型并提供 High / Low 分辨率设置。
 
-#### [Issue #40575 — Add Multi-select / Checkbox Group Input to Start Node User Input](https://github.com/langgenius/dify/issues/40575)
+#### [Draft PR #41137 — support multi-select input in start node](https://github.com/langgenius/dify/pull/41137)
 
-为 Dify Start Node 实现原生 `multi-select` 输入支持，并在 [Graphon PR #259](https://github.com/langgenius/graphon/pull/259) 中补充对应变量类型能力。
+针对 [Issue #40575](https://github.com/langgenius/dify/issues/40575) 为 Start Node 增加原生 `multi-select` 输入支持，当前依赖 [Graphon PR #259](https://github.com/langgenius/graphon/pull/259)。
 
 ### 🤝 协作贡献
 
@@ -44,13 +44,15 @@
 
 修复 checkpoint conformance 将 sync-only saver 的异步 `NotImplementedError` signpost 误判为实现的问题，并让这类 saver 明确返回 `SKIPPED`。
 
+### ⏸ 暂停
+
 #### [PR #8663 — Replace unnecessary BaseException catches with Exception](https://github.com/langchain-ai/langgraph/pull/8663)
 
-针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900)，收窄 cleanup 与 task callback 路径中过度捕获的 `BaseException`，避免 `KeyboardInterrupt` / `SystemExit` 被静默吞掉。
+针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900) 完成异常捕获范围修复；PR 因 LangGraph 的 Issue 指派规则自动关闭，等待 Maintainer 指派后再处理。
 
 #### [Issue #6896 — checkpoint-sqlite: make TTL pruning deterministic at boundary](https://github.com/langchain-ai/langgraph/issues/6896)
 
-修复 SQLite TTL 清理在亚秒边界上的时间精度不一致问题，并补充同步/异步回归测试。
+已完成 SQLite TTL 边界确定性修复方案，但发现已有 [PR #6897](https://github.com/langchain-ai/langgraph/pull/6897) 覆盖同一问题，因此保留贡献记录并暂停后续提交。
 
 ---
 
