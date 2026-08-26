@@ -40,6 +40,10 @@
 
 ### 🚧 进行中
 
+#### [Issue #8722 — Conformance detector counts an override-that-raises as an implementation](https://github.com/langchain-ai/langgraph/issues/8722)
+
+修复 checkpoint conformance 将 sync-only saver 的异步 `NotImplementedError` signpost 误判为实现的问题，并让这类 saver 明确返回 `SKIPPED`。
+
 #### [PR #8663 — Replace unnecessary BaseException catches with Exception](https://github.com/langchain-ai/langgraph/pull/8663)
 
 针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900)，收窄 cleanup 与 task callback 路径中过度捕获的 `BaseException`，避免 `KeyboardInterrupt` / `SystemExit` 被静默吞掉。
