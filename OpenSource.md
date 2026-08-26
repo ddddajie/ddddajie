@@ -44,8 +44,6 @@
 
 修复 checkpoint conformance 将 sync-only saver 的异步 `NotImplementedError` signpost 误判为实现的问题，并让这类 saver 明确返回 `SKIPPED`。
 
-### ⏸ 暂停
-
 #### [PR #8663 — Replace unnecessary BaseException catches with Exception](https://github.com/langchain-ai/langgraph/pull/8663)
 
 针对 [Issue #7900](https://github.com/langchain-ai/langgraph/issues/7900) 完成异常捕获范围修复；PR 因 LangGraph 的 Issue 指派规则自动关闭，等待 Maintainer 指派后再处理。
