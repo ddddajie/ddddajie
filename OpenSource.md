@@ -14,6 +14,10 @@
 
 ### 🚧 进行中
 
+#### [PR #41380 — make plugin uninstall credential cleanup failure-safe](https://github.com/langgenius/dify/pull/41380)
+
+针对 [Issue #39893](https://github.com/langgenius/dify/issues/39893)，为插件卸载后的凭证清理增加失败安全与有界重试，避免卸载成功后因清理失败留下孤立凭证或过期缓存。
+
 #### [PR #41135 — add vision-aware file upload settings](https://github.com/langgenius/dify/pull/41135)
 
 为 Agent V2 Chat Features 增加 Vision 能力感知，在图片上传场景提示非视觉模型并提供 High / Low 分辨率设置。
