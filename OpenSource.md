@@ -14,6 +14,10 @@
 
 ### 🚧 进行中
 
+#### [PR #41427 — delete multimodal segment attachment objects from storage](https://github.com/langgenius/dify/pull/41427)
+
+针对 [Issue #41399](https://github.com/langgenius/dify/issues/41399)，修复删除多模态知识库单个 Segment 后附件物理对象未从存储后端清理的问题。
+
 #### [PR #41380 — make plugin uninstall credential cleanup failure-safe](https://github.com/langgenius/dify/pull/41380)
 
 针对 [Issue #39893](https://github.com/langgenius/dify/issues/39893)，为插件卸载后的凭证清理增加失败安全与有界重试，避免卸载成功后因清理失败留下孤立凭证或过期缓存。
