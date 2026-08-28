@@ -40,6 +40,14 @@
 
 针对 [Issue #9828](https://github.com/vitejs/vite/issues/9828)，修复开发模式下 HTML 直接引用 `node_modules` 模块未注入 `browserHash`、导致同一模块被重复实例化的问题。
 
+# [Freebuff](https://github.com/CodebuffAI/freebuff)
+
+### 🚧 进行中
+
+#### [PR #1142 — sync terminal cursor with input caret for CJK IME](https://github.com/CodebuffAI/freebuff/pull/1142)
+
+针对 [Issue #1128](https://github.com/CodebuffAI/freebuff/issues/1128)，同步真实终端光标与输入 caret，修复 CJK 输入法候选窗口定位错误。
+
 # [LangGraph](https://github.com/langchain-ai/langgraph)
 
 ### 🚧 进行中
